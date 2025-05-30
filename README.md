@@ -38,20 +38,19 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 📁SETUP-
 
-1 . Clone the Repository
+1. Clone the Repository
 
-Open your terminal and run: 
-
+   Open your terminal and run: https://github.com/chauhan-maanya/WORK-PROGRESS-WEBSITE.git
 
 2. Or Download as ZIP
 
 
-  •	Click the green Code button and select Download ZIP.
+     •	Click the green Code button and select Download ZIP.
 
 
-  •	Extract the ZIP file.
+     •	Extract the ZIP file.
 
-3 . Open index.html in your web browser to access the application.
+ 3 . Open index.html in your web browser to access the application.
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
 💡FUTURE DEVELOPMENT:
