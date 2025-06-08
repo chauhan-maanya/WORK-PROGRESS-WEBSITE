@@ -1,66 +1,49 @@
 # WORK-PROGRESS-WEBSITE
-Work Progress is a web-based application designed to simplify task creation  and management. Users can easily add, organize, and prioritize their to do lists without any hassle. No sign-up required, ensuring instant access. 
+
+Work Progress is a streamlined web application designed to facilitate efficient task creation and management. It enables users to quickly add, organize, and prioritize their to-do lists without requiring any account registration, ensuring immediate accessibility.
+
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
-VIDEO DESCRIPTION-
+## Demo Video 
 https://drive.google.com/file/d/1rsr7vwTDCGCDxIv80JPvYaRmbLc-uu0E/view?usp=drive_link
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
-Presentation File-
+## Presentation  
 https://docs.google.com/presentation/d/1pCn34IrR4BlB8pPz3-q-pRl3_4GkOyrQ/edit?usp=drive_link&ouid=107225031467993957486&rtpof=true&sd=true
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
-🚀 OVERVIEW-
+## Overview
 
--Work Progress is a web-based application designed to simplify task creation and management.
+Work Progress is a user-friendly web application that simplifies task management by allowing users to create, organize, and prioritize to-do lists efficiently. The platform requires no user registration, offering immediate access to all features.
 
--Users can easily add, organize, and prioritize their to-do lists without any hassle.
-
--No sign-up required, ensuring instant access.
 ___________________________________________________________________________________________________________________________________________________________________________________________________
-OBJECTIVE -
+## Objectives
 
--To create a simple, user-friendly task management tool.
+- Develop an intuitive and accessible task management tool that requires no account creation.  
+- Facilitate user productivity by minimizing barriers to task organization.  
+- Employ a clean and minimalistic interface to enhance usability and user experience.
 
--Help users stay organized without the burden of account creation or software installation.
-
--Enhance productivity through minimalistic design and maximum accessibility.
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
-🛠️TECHNOLOGY USED:
+## Technology Stack
 
--Front-End: HTML, CSS, JavaScript
+- Front-End: HTML5, CSS3, JavaScript  
+- Hosting Platform: CodePen  
+- UI Enhancements: Free vector illustrations for improved user interface design
 
--Hosting/Platform: CodePen
-
--Additional Tools: Free vector illustrations for UI improvement
 ___________________________________________________________________________________________________________________________________________________________________________________________________
-📁SETUP-
-
+## Setup Instructions
+```bash
 1. Clone the Repository
-
    Open your terminal and run: https://github.com/chauhan-maanya/WORK-PROGRESS-WEBSITE.git
 
-2. Or Download as ZIP
-
-
-     •	Click the green Code button and select Download ZIP.
-
-
-     •	Extract the ZIP file.
-
- 3 . Open index.html in your web browser to access the application.
+2. Alternatively, download the repository as a ZIP file, extract it, and open index.html in a web browser to launch the application.
 ___________________________________________________________________________________________________________________________________________________________________________________________________
+```
+## Future Development
 
-💡FUTURE DEVELOPMENT:
-
-• Push notifications to remind users of upcoming deadlines,
-
-• User login system with personal task storage,
-
-• Dark mode for accessibility and aesthetic preference,
-
-• Task priority levels so users can better plan urgent work.
-
-
+- Implement push notifications for deadline reminders.  
+- Introduce user authentication for personalized task storage.  
+- Add a dark mode option to improve accessibility and user comfort.  
+- Incorporate task prioritization features to better manage urgent activities.
