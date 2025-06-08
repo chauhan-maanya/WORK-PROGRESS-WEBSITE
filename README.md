@@ -5,7 +5,7 @@ Work Progress is a streamlined web application designed to facilitate efficient 
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Demo Video 
-https://drive.google.com/file/d/1rsr7vwTDCGCDxIv80JPvYaRmbLc-uu0E/view?usp=drive_link
+https://drive.google.com/file/d/1vMoIxkcK1IZxFt63P07C1NgQCbFUy31c/view?usp=drive_link
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Presentation  
